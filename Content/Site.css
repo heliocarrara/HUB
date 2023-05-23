@@ -22,3 +22,21 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+.instagram-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+    .instagram-table td {
+        padding: 0;
+        vertical-align: top;
+    }
+
+    .instagram-table img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
