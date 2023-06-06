@@ -24,5 +24,17 @@ namespace HUB.Controllers
                 return Index();
             }
         }
+
+        public ActionResult Detalhes(int? id)
+        {
+            try
+            {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return CursosDisponiveis();
+            }
+        }
     }
 }

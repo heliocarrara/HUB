@@ -134,6 +134,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\img\Curso01_Logo_Curso_C.jpeg" />
     <Content Include="Content\img\Curso02_Logo_Curso_Introd_Algoritmos.jpg" />
+    <Content Include="Content\img\Em construcao.jpeg" />
     <Content Include="Content\img\logo.png" />
     <Content Include="Content\img\Post 1.png" />
     <Content Include="Content\img\Post 2.png" />
@@ -143,6 +144,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\pdf\CURSO Nº1 HUB EDUCAÇÃO.pdf" />
     <None Include="Properties\PublishProfiles\hubeducacao - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -170,6 +172,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Curso\CursosDisponiveis.cshtml" />
+    <Content Include="Views\Curso\Detalhes.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
