@@ -40,3 +40,10 @@ textarea {
         height: auto;
         display: block;
     }
+
+@media (max-width: 767px) {
+    .video-container iframe {
+        max-width: 100%;
+        height: auto;
+    }
+}

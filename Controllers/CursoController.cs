@@ -10,7 +10,7 @@ namespace HUB.Controllers
     {
         public ActionResult Index()
         {
-            return RedirectToAction("Index", "Home");
+            return View("Index", "Home");
         }
 
         public ActionResult CursosDisponiveis()
